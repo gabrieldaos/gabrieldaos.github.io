@@ -21,8 +21,8 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - WIP: #"http://deanattali.com/beautiful-jekyll/"
+  Favorite Projects:
+    - Coming Soon: #"http://deanattali.com/beautiful-jekyll/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -65,7 +65,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
 #  email: "someone@example.com"
 #  facebook: deanattali
   github: soadleirbag
@@ -91,7 +91,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://github.com/soadleirbag/"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "https://github.com/soadleirbag/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
