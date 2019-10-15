@@ -3,13 +3,14 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 ---
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
 
-My name is Inigo Montoya. I have the following qualities:
+Hi guys,you can call me Gab! Here are some things you should know:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- This website is still a work in progress.
+- But I promise to come up with some content soon.
 
-What else do you need?
+<!-- What else do you need?
 
 ### my history
 
