@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social Awareness of Filipinos in Social Media
+title: News Awareness of Filipinos in Social Media
 subtitle: Machine learning with the use of Ridge Regression and TFIDF
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -10,7 +10,12 @@ comments: true
 
 This capstone project deals with analyzing where the attention of the Filipino people lie with regards to the news tweets being published daily. Ridge regression was used to make the predictions of a tweet's performance (Likes & Tweets) from tweets that were converted to TFIDF vectors.
 
-**Here is some bold text**
+
+
+**How the project came to be**
+
+![sona_vs_bjg](/img/capstone-images/sona_vs_bjg.png){: .center-block :}
+
 
 ## Here is a secondary heading
 
