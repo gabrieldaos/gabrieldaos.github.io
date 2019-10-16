@@ -14,7 +14,7 @@ This capstone project deals with analyzing where the attention of the Filipino p
 
 **How the project came to be**
 
-![sona_vs_bjg](/img/capstone-images/sona_vs_bjg.png){: .center-block :}
+![sona_vs_bjg](../img/capstone-images/sona_vs_bjg.png){: .center-block :}
 
 
 ## Here is a secondary heading
