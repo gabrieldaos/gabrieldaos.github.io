@@ -16,6 +16,11 @@ This capstone project deals with analyzing where the attention of the Filipino p
 
 ![sona_vs_bjg](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/sona_vs_bjg.PNG?raw=true){: .center-block :}
 
+As a daily social media user in the Philippines, I noticed that the Bea, Julia, and Gerald scandal (A scandal between these celebrities in our country) took over social media on the same week that our President gave his State of the Nation Address. Despite having lots of nationwide issues brought up in that SONA, people were more concerned about who cheated on whom between the 3 celebrities I mentioned earlier.
+
+Because of the scenario that happened, I wanted to explore this hypothesis:
+
+## Filipinos are interested in celebrities than social issues in our country.
 
 ## Here is a secondary heading
 
