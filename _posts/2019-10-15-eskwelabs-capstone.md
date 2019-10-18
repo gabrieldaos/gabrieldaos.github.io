@@ -42,6 +42,7 @@ In order to confirm the hypothesis, we'll need to answer these three questions i
 In order to answer the questions earlier, this is the methodology that I went through. I'll be posting a separate post on how I did web scraping on Twitter.
 
 ## 1. Which news tweets has gathered most of the Filipino's attention this 2019
+
 {: .box-note}
 **Note:** Data is only until September 2019 since that's when the project was done.
 
