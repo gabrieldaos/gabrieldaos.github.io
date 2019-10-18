@@ -12,7 +12,7 @@ This capstone project deals with analyzing where the attention of the Filipino p
 
 
 
-**How the project came to be**
+### How the project came to be
 
 ![sona_vs_bjg](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/sona_vs_bjg.PNG?raw=true){: .center-block :}
 
@@ -24,13 +24,15 @@ Because of the scenario that happened, I wanted to explore this hypothesis:
 
 By exploring this hypothesis, we'll figure out by using machine learning **how we can get Filipinos more engaged with the relevant problems in the Philippines**.
 
+### The state of social media use
+
 ![hootsuite](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/sona_vs_bjg.PNG?raw=true){: .center-block :}
 
 Based from a recent statistic made last January 2019, roughly 61% of Filipinos that are using social media are on the ages of 18 - 34. We now live in a age where people would tune into their smartphones to get the latest news updates instead of their television. This is why I'll be using twitter as a medium for this study.
 
 ![hootsuite](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/sona_vs_bjg.PNG?raw=true){: .center-block :}
 
-In order to confirm the hypothesis, we'll need to answer these three questions in order to understand what's currently going on in social media:
+In order to confirm the hypothesis, we'll need to answer these three questions in order to understand what's currently going on in social media.
 
 ## 1. Which news tweets has gathered most of the Filipino's attention this 2019
 **(Up til September since that's when the project was made.)**
