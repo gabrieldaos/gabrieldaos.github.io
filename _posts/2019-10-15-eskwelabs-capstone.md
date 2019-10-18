@@ -32,8 +32,10 @@ Based from a recent statistic made last January 2019, roughly 61% of Filipinos t
 
 In order to confirm the hypothesis, we'll need to answer these three questions in order to understand what's currently going on in social media:
 
-1. Which news tweets has gathered most of the Filipino's attention this 2019 (Up til September since that's when the project was made.)
+1. Which news tweets has gathered most of the Filipino's attention this 2019 (Up til September since that's when the project was made.)\
+
 2. How are these popular tweets similar to one another, like what features do they have that gives them attention
+
 3. Can a machine learning model predict a tweet's performance based from what's established from the 2 questions before?
 
 
