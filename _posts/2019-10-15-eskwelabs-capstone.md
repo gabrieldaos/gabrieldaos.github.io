@@ -52,7 +52,7 @@ To give a brief overview, these are the total number of tweets that was gathered
 
 ### President Duterte and other National News Headlines are consistently present each month
 
-![methodology](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/word cloud freq.PNG?raw=true){: .center-block :}
+![word_cloud_freq](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/word cloud freq.gif?raw=true){: .center-block :}
 
 If we're going by frequency of tweets, President Duterte gets the most coverage out of all the topics this past year. These tweets about President Duterte are followed by national news headlines like the elections, storm warnings, Catriona Gray, China, and etc.
 
