@@ -22,11 +22,11 @@ Because of the scenario that happened, I wanted to explore this hypothesis:
 
 ## Filipinos are interested in celebrities than social issues that the country has.
 
-By exploring this hypothesis, we'll figure out by using machine learning **how we can get Filipinos more engaged with the relevant problems in the Philippines**.
+By exploring this hypothesis, we'll figure out by using machine learning how we can get Filipinos more engaged with the relevant problems in the Philippines.
 
 ![hootsuite](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/hootsuite.PNG?raw=true){: .center-block :}
 
-Based from a recent statistic made last January 2019, roughly 61% of Filipinos that are using social media are on the ages of 18 - 34. We now live in a age where people would tune into their smartphones to get the latest news updates instead of their television. This is why I'll be using twitter as a medium for this study.
+Based from a recent statistic made last January 2019, roughly 61% of Filipinos that are using social media are on the ages of 18 - 34. We now live in a age where people would tune into their smartphones to get the latest news updates instead of their television. This is why I'll be using **Twitter** as a medium for this study.
 
 In order to confirm the hypothesis, we'll need to answer these three questions in order to understand what's currently going on in social media.
 
@@ -36,12 +36,14 @@ In order to confirm the hypothesis, we'll need to answer these three questions i
 
 3. Can we predict how popular a tweet will be based from the features it has?
 
+
 ![methodology](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/methodology.PNG?raw=true){: .center-block :}
 
 In order to answer the questions earlier, this is the methodology that I went through. I'll be posting a separate post on how I did web scraping on Twitter.
 
 ## 1. Which news tweets has gathered most of the Filipino's attention this 2019
-**(Up til September since that's when the project was made.)**
+{: .box-note}
+**Note:** Data is only until September 2019 since that's when the project was done.
 
 ## 2. How are these popular tweets similar to one another?
 **like what features do they have that gives them attention**
