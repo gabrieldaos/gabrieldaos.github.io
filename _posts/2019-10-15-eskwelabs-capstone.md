@@ -48,7 +48,13 @@ In order to answer the questions earlier, this is the methodology that I went th
 
 ![methodology](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/distribution.PNG?raw=true){: .center-block :}
 
-To give a brief overview, these are the total number of tweets that was gathered from each news source I web scraped from in Twitter.
+To give a brief overview, these are the total number of tweets that was gathered from each news source I web scraped from in Twitter. This is just to show that the data is not skewed to one news source in this data analysis.
+
+### President Duterte and other National News Headlines are consistently present each month
+
+![methodology](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/word cloud freq.PNG?raw=true){: .center-block :}
+
+If we're going by frequency of tweets, President Duterte gets the most coverage out of all the topics this past year. These tweets about President Duterte are followed by national news headlines like the elections, storm warnings, Catriona Gray, China, and etc.
 
 ## 2. How are these popular tweets similar to one another?
 **like what features do they have that gives them attention**
