@@ -46,6 +46,10 @@ In order to answer the questions earlier, this is the methodology that I went th
 {: .box-note}
 **Note:** Data is only until September 2019 since that's when the project was done.
 
+![methodology](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/distribution.PNG?raw=true){: .center-block :}
+
+To give a brief overview, these are the total number of tweets that was gathered from each news source I web scraped from in Twitter.
+
 ## 2. How are these popular tweets similar to one another?
 **like what features do they have that gives them attention**
 
