@@ -56,6 +56,10 @@ To give a brief overview, these are the total number of tweets that was gathered
 
 If we're going by frequency of tweets, President Duterte gets the most coverage out of all the topics this past year. These tweets about President Duterte are followed by national news headlines like the elections, storm warnings, Catriona Gray, China, and etc.
 
+![word_cloud_freq](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/top_tweets.png?raw=true){: .center-block :}
+
+But if we're going to base it by likes, most of the top news tweets involves at least a popular figure in the Philippines.
+
 ## 2. How are these popular tweets similar to one another?
 **like what features do they have that gives them attention**
 
