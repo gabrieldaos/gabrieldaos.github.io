@@ -58,7 +58,7 @@ If we're going by frequency of tweets, President Duterte gets the most coverage 
 
 ![top_tweets](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/top_tweets.PNG?raw=true){: .center-block :}
 
-But if we're going to base it by likes, most of the top news tweets involves at least a popular figure in the Philippines.
+But if we're going to base it by likes, most of the top news tweets involves at least a popular figure in the Philippines. Its also good to note that most of the top news tweets come from ABS-CBN (A popular celebrity centric TV network in the Philippines.)
 
 ## 2. How are these popular tweets similar to one another?
 **like what features do they have that gives them attention**
