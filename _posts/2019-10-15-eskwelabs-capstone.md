@@ -2,7 +2,7 @@
 layout: post
 title: News Awareness of Filipinos in Social Media
 subtitle: Machine learning with the use of Ridge Regression and TFIDF
-gh-repo: daattali/beautiful-jekyll
+gh-repo: soadleirbag/eskwelabs-capstone-filipino-newstweets
 gh-badge: [star, fork, follow]
 tags: [Esklwelabs, Capstone, Machine Learning]
 comments: true
