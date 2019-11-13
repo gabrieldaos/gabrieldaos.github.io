@@ -6,7 +6,7 @@ gh-repo: soadleirbag/eskwelabs-capstone-filipino-newstweets
 gh-badge: [star, fork, follow]
 tags: [Esklwelabs, Capstone, Machine Learning]
 comments: true
-header-img: "img/capstone-images/sona_vs_bjg.PNG"
+header-img: /img/capstone-images/sona_vs_bjg.PNG
 ---
 
 This capstone project deals with analyzing where the attention of the Filipino people lie with regards to the news tweets being published daily. Ridge regression was used to make the predictions of a tweet's performance (Likes & Tweets) from tweets that were converted to TFIDF vectors.
