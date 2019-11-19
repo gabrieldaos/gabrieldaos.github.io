@@ -65,6 +65,7 @@ But if we're going to base it by likes, most of the top news tweets involves at 
 
 ![sim_tweets](/img/capstone-images/sim_tweets.PNG){: .center-block :}
 
+<<<<<<< HEAD
 We know that the top news tweets involve a popular figure, but the most similar ones usually involved ABS-CBN stars in their news tweets if we actually stack the number of likes each person has on all of them.
 
 There are a few outliers in this finding like Dela Rosa and Alden Richards, but probably because he recently worked on a movie with Kathryn Bernardo, an ABS-CBN star, but another person who stands out among the people  in the list is Mayor Isko Moreno.
@@ -72,13 +73,24 @@ There are a few outliers in this finding like Dela Rosa and Alden Richards, but 
 ## 3. Can a machine learning model predict a tweet's performance?
 
 Based from what was discussed earlier, we now know that:
+=======
+We know that the top news tweets involve a popular figure, but the most similar ones usually involved ABS-CBN stars in their news tweets if we actually stack the number of likes each person has on all of them. There are a few outliers in this finding like Dela Rosa and Alden Richards, but probably because he recently worked on a movie with Kathryn Bernardo, an ABS-CBN star, but another person who stands out among the people  in the list is Mayor Isko Moreno.
+
+## 3. Can a machine learning model predict a tweet's performance?
+
+based from what was discussed earlier, we now know that:
+>>>>>>> 634aba83cb6e558558594d7a980cd1871f19a517
 
 1. Top news tweets involve a popular figure.
 2. Most of these news tweets are about ABS CBN stars.
 
 With these things established, can a machine learning model take this into account and predict a tweet's performance based from its content?
 
+<<<<<<< HEAD
 By using TF-IDF and ridge regression for the machine learning model, these are outputs made with roughly 70% accuracy for both predicting likes and retweets based from its content.
+=======
+By using TF-IDF and ridge regression for the machine learning model, I was able to make the following news tweet performance predictions based from its text content and news provider with a prediction accuracy of roughly 70% for both likes and retweets. In this case, this is about the SOGIE Bill.
+>>>>>>> 634aba83cb6e558558594d7a980cd1871f19a517
 
 ![pred1](/img/capstone-images/pred1.PNG){: .center-block :}
 
