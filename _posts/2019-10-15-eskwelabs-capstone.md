@@ -95,7 +95,7 @@ In the sample above, these are the following tests attempted:
 
 For every changes I made in the content, the number of likes and retweets increase. We can now clearly see which features/content of a news tweet greatly affects its performance.
 
-![pred1](/img/capstone-images/pred2.PNG){: .center-block :}
+![pred1](/img/capstone-images/new_pred2.PNG){: .center-block :}
 
 The same tests is done above for the Farmers in the Philippines. The predictions were just the same as the test earlier.
 
