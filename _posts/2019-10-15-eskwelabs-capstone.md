@@ -74,6 +74,7 @@ There are a few outliers in this finding like Dela Rosa and Alden Richards, but 
 Based from what was discussed earlier, we now know that:
 
 1. Top news tweets involve a popular figure.
+
 2. Most of these news tweets are about ABS CBN stars.
 
 With these things established, can a machine learning model take this into account and predict a tweet's performance based from its content?
@@ -85,8 +86,11 @@ By using TF-IDF and ridge regression for the machine learning model, these are o
 In the sample above, these are the following tests attempted:
 
 1. A typical news tweet about the SOGIE bill.
+
 2. Adding a political figure in the news tweet.
+
 3. Change the political figure into an ABS-CBN star.
+
 4. Change the news provider to ABS-CBN News.
 
 For every changes I made in the content, the number of likes and retweets increase. We can now clearly see which features/content of a news tweet greatly affects its performance.
@@ -95,6 +99,14 @@ For every changes I made in the content, the number of likes and retweets increa
 
 The same tests is done above for the Farmers in the Philippines. The predictions were just the same as the test earlier.
 
-## Conclusion
+# Conclusion
 
 ### Our country has a Celebrity driven culture where stories are relevant where there’s a popular figure involved in it.
+
+I know that some of you may already know this that adding a celebrity to something is always equal to more exposure, but now I have shown you quantifiable evidence of the degree that most of the Filipinos care more about other people's lives than the other relevant issues in our country.
+
+Now its easy to say that perhaps to further increase the Filipino's attention to the social issues in our country is perhaps having these celebrities as the people presenting the problems to the public (which some NGOs already do) or maybe change the news format into something the audience is familiar with what they're currently watching, but do you guys remember the outlier I mentioned earlier?
+
+**Mayor Isko Moreno**, now this guy has figured out how to spread awareness to his campaigns and the issues he's bringing up in Manila. He's doing the same things that other celebrities does, he levels with his audience, learns how to talk their language, and makes his problems and life relatable to the people. Now those things get the Filipino people's attention, which is seen with the findings earlier in # 2.
+
+Our government should not be going all fancy and just say I'm going to this and that and just tell people they have to do this. They must learn how to step down to our level in order to get their point in peoples' heads, otherwise its just gonna pass through and they'll just go back to figuring out whatever it is going on between the Barretos and such.
