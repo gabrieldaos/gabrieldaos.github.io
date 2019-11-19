@@ -59,13 +59,43 @@ If we're going by frequency of tweets, President Duterte gets the most coverage 
 
 ![top_tweets](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/top_tweets.PNG?raw=true){: .center-block :}
 
-But if we're going to base it by likes, most of the top news tweets involves at least a popular figure in the Philippines. Its also good to note that most of the top news tweets come from ABS-CBN (A popular celebrity centric TV network in the Philippines.)
+But if we're going to base it by likes, most of the top news tweets involves at least a popular figure in the Philippines, mostly people involved in social media, issues, and pop culture.
 
 ## 2. How are these popular tweets similar to one another?
-**like what features do they have that gives them attention**
+
+![sim_tweets](/img/capstone-images/sim_tweets.PNG){: .center-block :}
+
+We know that the top news tweets involve a popular figure, but the most similar ones usually involved ABS-CBN stars in their news tweets if we actually stack the number of likes each person has on all of them. There are a few outliers in this finding like Dela Rosa and Alden Richards, but probably because he recently worked on a movie with Kathryn Bernardo, an ABS-CBN star, but another person who stands out among the people  in the list is Mayor Isko Moreno.
 
 ## 3. Can a machine learning model predict a tweet's performance?
-**Based from what's established from the 2 questions before.**
+
+based from what was discussed earlier, we now know that:
+
+1. Top news tweets involve a popular figure.
+2. Most of these news tweets are about ABS CBN stars.
+
+With these things established, can a machine learning model take this into account and predict a tweet's performance based from its content?
+
+By using TF-IDF and ridge regression for the machine learning model, I was able to make the following news tweet performance predictions based from its text content and news provider with a prediction accuracy of roughly 70% for both likes and retweets. In this case, this is about the SOGIE Bill.
+
+![pred1](/img/capstone-images/pred1.PNG){: .center-block :}
+
+In the sample above, these are the following tests attempted:
+
+1. A typical news tweet about the SOGIE bill.
+2. Adding a political figure in the news tweet.
+3. Change the political figure into an ABS-CBN star.
+4. Change the news provider to ABS-CBN News.
+
+For every changes I made in the content, the number of likes and retweets increase. We can now clearly see which features/content of a news tweet greatly affects its performance.
+
+![pred1](/img/capstone-images/pred2.PNG){: .center-block :}
+
+The same tests is done above for the Farmers in the Philippines. The predictions were just the same as the test earlier.
+
+
+
+
 
 
 
