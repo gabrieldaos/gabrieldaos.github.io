@@ -27,7 +27,7 @@ By exploring this hypothesis, we'll figure out by using machine learning how we 
 
 ![hootsuite](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/hootsuite.PNG?raw=true){: .center-block :}
 
-Based from a recent statistic made last January 2019, roughly 61% of Filipinos that are using social media are on the ages of 18 - 34. We now live in a age where people would tune into their smartphones to get the latest news updates instead of their television. This is why I'll be using **Twitter** as a medium for this study.
+Based from a recent statistic made last January 2019, roughly 61% of Filipinos that are using social media are between the ages of 18-34 . We now live in an age where people would tune into their smartphones to get the latest news updates instead of their television. This is why I'll be using **Twitter** as a medium for this study.
 
 In order to confirm the hypothesis, we'll need to answer these three questions in order to understand what's currently going on in social media.
 
@@ -35,7 +35,7 @@ In order to confirm the hypothesis, we'll need to answer these three questions i
 
 2. What are the similarities of the popular news tweets?
 
-3. Can we predict how popular a tweet will be based from the features it has?
+3. Can we predict how popular a tweet will be based on the features it has?
 
 
 ![methodology](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/methodology.PNG?raw=true){: .center-block :}
@@ -59,7 +59,7 @@ If we're going by frequency of tweets, President Duterte gets the most coverage 
 
 ![top_tweets](https://github.com/soadleirbag/soadleirbag.github.io/blob/master/img/capstone-images/top_tweets.PNG?raw=true){: .center-block :}
 
-But if we're going to base it by likes, most of the top news tweets involves at least a popular figure in the Philippines, mostly people involved in social media, issues, and pop culture.
+But if we're going to base it by likes, most of the top news tweets involve at least a popular figure in the Philippines, mostly people involved in social media, issues, and pop culture.
 
 ## 2. How are these popular tweets similar to one another?
 
@@ -71,15 +71,15 @@ There are a few outliers in this finding like Dela Rosa and Alden Richards, but 
 
 ## 3. Can a machine learning model predict a tweet's performance?
 
-Based from what was discussed earlier, we now know that:
+Based on what was discussed earlier, we now know that:
 
 1. Top news tweets involve a popular figure.
 
 2. Most of these news tweets are about ABS CBN stars.
 
-With these things established, can a machine learning model take this into account and predict a tweet's performance based from its content?
+With these things established, can a machine learning model take this into account and predict a tweet's performance based on its content?
 
-By using TF-IDF and ridge regression for the machine learning model, these are outputs made with roughly 70% accuracy for both predicting likes and retweets based from its content.
+By using TF-IDF and ridge regression for the machine learning model, these are outputs made with roughly 70% accuracy for both predicting likes and retweets based on its content.
 
 ![pred1](/img/capstone-images/pred1.PNG){: .center-block :}
 
@@ -97,16 +97,16 @@ For every changes I made in the content, the number of likes and retweets increa
 
 ![pred1](/img/capstone-images/new_pred2.PNG){: .center-block :}
 
-The same tests is done above for the Farmers in the Philippines. The predictions were just the same as the test earlier.
+The same tests are done above for the Farmers in the Philippines. The predictions were just the same as the test earlier.
 
 # Conclusion
 
-### Our country has a Celebrity driven culture where stories are relevant where there’s a popular figure involved in it.
+### Our country has a Celebrity driven culture where stories are relevant when there’s a popular figure involved in it.
 
-I know that some of you may already know this that adding a celebrity to something is always equal to more exposure, but now I have shown you quantifiable evidence of the degree that most of the Filipinos care more about other people's lives than the other relevant issues in our country.
+I know that some of you may already know that adding a celebrity to something is always equal to more exposure, but now I have shown you quantifiable evidence of the degree that most of the Filipinos care more about other people's lives than the other relevant issues in our country.
 
-Now its easy to say that perhaps to further increase the Filipino's attention to the social issues in our country is perhaps having these celebrities as the people presenting the problems to the public (which some NGOs already do) or maybe change the news format into something the audience is familiar with what they're currently watching, but do you guys remember the outlier I mentioned earlier?
+Now it's easy to say that perhaps to further increase the Filipinos' attention to the social issues in our country is perhaps having these celebrities as the people presenting the problems to the public (which some NGOs already do) or maybe change the news format into something the audience is familiar with what they're currently watching, but do you guys remember the outlier I mentioned earlier?
 
 **Mayor Isko Moreno**, now this guy has figured out how to spread awareness to his campaigns and the issues he's bringing up in Manila. He's doing the same things that other celebrities does, he levels with his audience, learns how to talk their language, and makes his problems and life relatable to the people. Now those things get the Filipino people's attention, which is seen with the findings earlier in # 2.
 
-Our government should not be going all fancy and just say I'm going to this and that and just tell people they have to do this. They must learn how to step down to our level in order to get their point in peoples' heads, otherwise its just gonna pass through and they'll just go back to figuring out whatever it is going on between the Barretos and such.
+Our government should not be going all fancy and just say I'm going to this and that and just tell people they have to do this. They must learn how to step down to our level in order to get their point in peoples' heads, otherwise it's just gonna pass through and they'll just go back to figuring out whatever it is going on between the Barretos and such.
